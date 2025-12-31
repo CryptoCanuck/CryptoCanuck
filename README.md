@@ -1,70 +1,84 @@
 <div align="center">
 
 ```
-     ___/\/\/\/\/\________________________________________/\/\____________________/\/\/\/\/\__________________________________________________/\/\_______
-    _/\/\__________/\/\__/\/\__/\/\__/\/\__/\/\/\/\____/\/\/\/\/\____/\/\/\____/\/\__________/\/\/\______/\/\/\/\____/\/\__/\/\____/\/\/\/\__/\/\__/\/\_ 
-   _/\/\__________/\/\/\/\____/\/\__/\/\__/\/\__/\/\____/\/\______/\/\__/\/\__/\/\______________/\/\____/\/\__/\/\__/\/\__/\/\__/\/\________/\/\/\/\___  
-  _/\/\__________/\/\__________/\/\/\/\__/\/\/\/\______/\/\______/\/\__/\/\__/\/\__________/\/\/\/\____/\/\__/\/\__/\/\__/\/\__/\/\________/\/\/\/\___   
- ___/\/\/\/\/\__/\/\______________/\/\__/\/\__________/\/\/\______/\/\/\______/\/\/\/\/\__/\/\/\/\/\__/\/\__/\/\____/\/\/\/\____/\/\/\/\__/\/\__/\/\_    
-___________________________/\/\/\/\____/\/\_________________________________________________________________________________________________________  
+ ██████╗██████╗ ██╗   ██╗██████╗ ████████╗ ██████╗  ██████╗ █████╗ ███╗   ██╗██╗   ██╗ ██████╗██╗  ██╗
+██╔════╝██╔══██╗╚██╗ ██╔╝██╔══██╗╚══██╔══╝██╔═══██╗██╔════╝██╔══██╗████╗  ██║██║   ██║██╔════╝██║ ██╔╝
+██║     ██████╔╝ ╚████╔╝ ██████╔╝   ██║   ██║   ██║██║     ███████║██╔██╗ ██║██║   ██║██║     █████╔╝
+██║     ██╔══██╗  ╚██╔╝  ██╔═══╝    ██║   ██║   ██║██║     ██╔══██║██║╚██╗██║██║   ██║██║     ██╔═██╗
+╚██████╗██║  ██║   ██║   ██║        ██║   ╚██████╔╝╚██████╗██║  ██║██║ ╚████║╚██████╔╝╚██████╗██║  ██╗
+ ╚═════╝╚═╝  ╚═╝   ╚═╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Infrastructure+Architect+%7C+AI+Engineer+%7C+IoT+Specialist;Building+Distributed+Systems+at+Scale)](https://git.io/typing-svg)
+### Bringing intelligence to the edge. Scaling infrastructure to the limit.
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=700&lines=Infrastructure+Architect;AI+%26+ML+Engineer;Distributed+Systems+Specialist;IoT+%26+Edge+Computing+Expert)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
+## About
+
+I build systems that bridge the gap between AI research and production infrastructure. My work focuses on deploying machine learning at scale, architecting distributed hardware networks, and creating data pipelines that handle millions of events per second.
+
+Previously contributed to **Parity Technologies** (Polkadot/Substrate), **Solana**, and **Edge Group Abu Dhabi**. Built industrial data platforms processing sensor data from manufacturing floors across multiple continents.
+
+I believe the future of AI isn't just in the cloud—it's at the edge, embedded in the physical world.
+
+---
+
+## Currently Building
+
+- **Distributed AI inference clusters** — Running LLMs across heterogeneous hardware
+- **Edge ML pipelines** — Real-time model deployment on IoT devices
+- **Industrial automation systems** — Connecting AI to physical infrastructure
+
+---
+
+## Experience
+
 <table>
 <tr>
-<td width="50%" valign="top">
-
-## `> whoami`
-
-```yaml
-name: CryptoCanuck
-location: Kingston, ON, Canada
-role: Infrastructure & AI Specialist
-
-focus_areas:
-  - Distributed Systems Architecture
-  - Machine Learning & AI Deployment
-  - IoT & Edge Computing
-  - Hardware Infrastructure at Scale
-
-current_status: Building the future
-```
-
+<td width="140">
+<img src="https://img.shields.io/badge/Parity-0D1117?style=for-the-badge&logo=parity-substrate&logoColor=FF1864" alt="Parity">
 </td>
-<td width="50%" valign="top">
-
-## `> uptime`
-
-```python
-class CryptoCanuck:
-    def __init__(self):
-        self.code = ["Python", "Go", "Rust", "C"]
-        self.infrastructure = True
-        self.ai_ml = True
-        self.distributed_systems = True
-
-    def current_projects(self):
-        return [
-            "AI Infrastructure Pipelines",
-            "Edge Computing Networks",
-            "Distributed Hardware Clusters"
-        ]
-```
-
+<td>
+<strong>Parity Technologies</strong><br>
+Core infrastructure development for the Polkadot ecosystem. Contributed to Substrate runtime modules, node networking, and decentralized consensus mechanisms. Worked on systems processing thousands of transactions per second across a global validator network.
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/Solana-0D1117?style=for-the-badge&logo=solana&logoColor=9945FF" alt="Solana">
+</td>
+<td>
+<strong>Solana</strong><br>
+High-performance blockchain development on the fastest L1 network. Built DeFi infrastructure, smart contract systems, and tooling for the Solana ecosystem. Optimized for sub-second finality and 65,000+ TPS throughput.
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/Edge_Group-0D1117?style=for-the-badge&logo=shield&logoColor=FFFFFF" alt="Edge Group">
+</td>
+<td>
+<strong>Edge Group — Abu Dhabi</strong><br>
+Enterprise software development for one of the Middle East's largest technology and defense conglomerates. Delivered mission-critical systems with strict security, reliability, and performance requirements.
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/Industrial-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF41" alt="Industrial">
+</td>
+<td>
+<strong>Industrial Data Engineering</strong><br>
+Architected data processing pipelines for large-scale manufacturing operations. Built real-time analytics platforms ingesting millions of data points from industrial IoT sensors. Deployed predictive maintenance models that reduced downtime by double digits.
 </td>
 </tr>
 </table>
 
 ---
 
-## `> cat /etc/skills.conf`
+## Tech Stack
 
 ### Infrastructure & Cloud
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
@@ -75,7 +89,6 @@ class CryptoCanuck:
 ![GCP](https://img.shields.io/badge/GCP-0D1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
 ![Azure](https://img.shields.io/badge/Azure-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
 ![Proxmox](https://img.shields.io/badge/Proxmox-0D1117?style=for-the-badge&logo=proxmox&logoColor=E57000)
-![VMware](https://img.shields.io/badge/VMware-0D1117?style=for-the-badge&logo=vmware&logoColor=607078)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 ### AI & Machine Learning
@@ -84,8 +97,8 @@ class CryptoCanuck:
 ![CUDA](https://img.shields.io/badge/CUDA-0D1117?style=for-the-badge&logo=nvidia&logoColor=76B900)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 ![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=375BD2)
-![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=00A67E)
 ![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=FFFFFF)
+![vLLM](https://img.shields.io/badge/vLLM-0D1117?style=for-the-badge&logo=v&logoColor=00ADD8)
 ![MLflow](https://img.shields.io/badge/MLflow-0D1117?style=for-the-badge&logo=mlflow&logoColor=0194E2)
 
 ### IoT & Edge Computing
@@ -93,23 +106,24 @@ class CryptoCanuck:
 ![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D)
 ![ESP32](https://img.shields.io/badge/ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=E7352C)
 ![MQTT](https://img.shields.io/badge/MQTT-0D1117?style=for-the-badge&logo=mqtt&logoColor=660066)
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-0D1117?style=for-the-badge&logo=homeassistant&logoColor=41BDF5)
 ![Zigbee](https://img.shields.io/badge/Zigbee-0D1117?style=for-the-badge&logo=zigbee&logoColor=EB0443)
 ![LoRa](https://img.shields.io/badge/LoRaWAN-0D1117?style=for-the-badge&logo=thethingsnetwork&logoColor=00ADD8)
+![NVIDIA Jetson](https://img.shields.io/badge/Jetson-0D1117?style=for-the-badge&logo=nvidia&logoColor=76B900)
 
-### Languages & Development
+### Languages
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![Rust](https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=F74C00)
+![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Solidity](https://img.shields.io/badge/Solidity-0D1117?style=for-the-badge&logo=solidity&logoColor=363636)
 
-### Databases & Messaging
+### Data & Messaging
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-0D1117?style=for-the-badge&logo=influxdb&logoColor=22ADF6)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-0D1117?style=for-the-badge&logo=clickhouse&logoColor=FFCC01)
+![TimescaleDB](https://img.shields.io/badge/Timescale-0D1117?style=for-the-badge&logo=timescale&logoColor=FDB515)
 ![Kafka](https://img.shields.io/badge/Kafka-0D1117?style=for-the-badge&logo=apachekafka&logoColor=231F20)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0D1117?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)
 
@@ -117,55 +131,26 @@ class CryptoCanuck:
 ![Prometheus](https://img.shields.io/badge/Prometheus-0D1117?style=for-the-badge&logo=prometheus&logoColor=E6522C)
 ![Grafana](https://img.shields.io/badge/Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=F46800)
 ![Elasticsearch](https://img.shields.io/badge/Elastic-0D1117?style=for-the-badge&logo=elastic&logoColor=005571)
-![Datadog](https://img.shields.io/badge/Datadog-0D1117?style=for-the-badge&logo=datadog&logoColor=632CA6)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-0D1117?style=for-the-badge&logo=opentelemetry&logoColor=425CC7)
 
 ---
 
-## `> cat /var/log/experience.log`
+## Open Source & Collaboration
 
-<table>
-<tr>
-<td width="100">
-<img src="https://img.shields.io/badge/Parity-0D1117?style=for-the-badge&logo=parity-substrate&logoColor=FF1864" alt="Parity">
-</td>
-<td>
-<strong>Parity Technologies</strong><br>
-Contributed to blockchain infrastructure powering the Polkadot ecosystem. Worked on core substrate development and decentralized systems architecture.
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://img.shields.io/badge/Solana-0D1117?style=for-the-badge&logo=solana&logoColor=9945FF" alt="Solana">
-</td>
-<td>
-<strong>Solana</strong><br>
-Built high-performance blockchain solutions on one of the fastest networks in crypto. Developed smart contracts and DeFi infrastructure.
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://img.shields.io/badge/Edge_Group-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEyIDJMMiA3djEwbDEwIDUgMTAtNVY3TDEyIDJ6Ii8+PC9zdmc+&logoColor=FFFFFF" alt="Edge Group">
-</td>
-<td>
-<strong>Edge Group — Abu Dhabi</strong><br>
-Developed enterprise software solutions for one of the leading technology and defense conglomerates in the UAE.
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://img.shields.io/badge/Manufacturing-0D1117?style=for-the-badge&logo=industry&logoColor=00FF41" alt="Manufacturing">
-</td>
-<td>
-<strong>Industrial Data Engineering</strong><br>
-Architected and deployed large-scale data processing pipelines for manufacturing operations. Built real-time analytics systems handling millions of data points from industrial IoT sensors.
-</td>
-</tr>
-</table>
+I'm always interested in connecting with others working on:
+- Distributed AI/ML inference systems
+- Edge computing and IoT platforms
+- High-performance data pipelines
+- Blockchain infrastructure
+
+Feel free to reach out or explore my repositories.
 
 ---
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CryptoCanuck&color=00FF41&style=flat-square&label=VISITORS)
+
+**Kingston, ON, Canada**
 
 </div>
