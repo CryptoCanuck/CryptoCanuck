@@ -66,10 +66,7 @@ class CryptoCanuck:
 
 ## `> cat /etc/skills.conf`
 
-<details>
-<summary><b>Infrastructure & Cloud</b></summary>
-<br>
-
+### Infrastructure & Cloud
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Terraform](https://img.shields.io/badge/Terraform-0D1117?style=for-the-badge&logo=terraform&logoColor=7B42BC)
@@ -81,12 +78,7 @@ class CryptoCanuck:
 ![VMware](https://img.shields.io/badge/VMware-0D1117?style=for-the-badge&logo=vmware&logoColor=607078)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 
-</details>
-
-<details>
-<summary><b>AI & Machine Learning</b></summary>
-<br>
-
+### AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![CUDA](https://img.shields.io/badge/CUDA-0D1117?style=for-the-badge&logo=nvidia&logoColor=76B900)
@@ -96,12 +88,7 @@ class CryptoCanuck:
 ![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=FFFFFF)
 ![MLflow](https://img.shields.io/badge/MLflow-0D1117?style=for-the-badge&logo=mlflow&logoColor=0194E2)
 
-</details>
-
-<details>
-<summary><b>IoT & Edge Computing</b></summary>
-<br>
-
+### IoT & Edge Computing
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-0D1117?style=for-the-badge&logo=raspberrypi&logoColor=A22846)
 ![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D)
 ![ESP32](https://img.shields.io/badge/ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=E7352C)
@@ -110,12 +97,7 @@ class CryptoCanuck:
 ![Zigbee](https://img.shields.io/badge/Zigbee-0D1117?style=for-the-badge&logo=zigbee&logoColor=EB0443)
 ![LoRa](https://img.shields.io/badge/LoRaWAN-0D1117?style=for-the-badge&logo=thethingsnetwork&logoColor=00ADD8)
 
-</details>
-
-<details>
-<summary><b>Languages & Development</b></summary>
-<br>
-
+### Languages & Development
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![Rust](https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=F74C00)
@@ -123,12 +105,7 @@ class CryptoCanuck:
 ![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
-</details>
-
-<details>
-<summary><b>Databases & Messaging</b></summary>
-<br>
-
+### Databases & Messaging
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
@@ -136,18 +113,11 @@ class CryptoCanuck:
 ![Kafka](https://img.shields.io/badge/Kafka-0D1117?style=for-the-badge&logo=apachekafka&logoColor=231F20)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0D1117?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)
 
-</details>
-
-<details open>
-<summary><b>Monitoring & Observability</b></summary>
-<br>
-
+### Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-0D1117?style=for-the-badge&logo=prometheus&logoColor=E6522C)
 ![Grafana](https://img.shields.io/badge/Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=F46800)
 ![Elasticsearch](https://img.shields.io/badge/Elastic-0D1117?style=for-the-badge&logo=elastic&logoColor=005571)
 ![Datadog](https://img.shields.io/badge/Datadog-0D1117?style=for-the-badge&logo=datadog&logoColor=632CA6)
-
-</details>
 
 ---
 
