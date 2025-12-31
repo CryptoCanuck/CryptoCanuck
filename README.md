@@ -121,43 +121,50 @@ class CryptoCanuck:
 
 ---
 
-## `> system metrics`
+## `> cat /var/log/experience.log`
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=CryptoCanuck&show_icons=true&bg_color=0D1117&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=FFFFFF&ring_color=00FF41" width="49%">
-<img src="https://streak-stats.demolab.com?user=CryptoCanuck&background=0D1117&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="49%">
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CryptoCanuck&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Timeline)](https://github.com/CryptoCanuck)
-
-</div>
+<table>
+<tr>
+<td width="100">
+<img src="https://img.shields.io/badge/Parity-0D1117?style=for-the-badge&logo=parity-substrate&logoColor=FF1864" alt="Parity">
+</td>
+<td>
+<strong>Parity Technologies</strong><br>
+Contributed to blockchain infrastructure powering the Polkadot ecosystem. Worked on core substrate development and decentralized systems architecture.
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/Solana-0D1117?style=for-the-badge&logo=solana&logoColor=9945FF" alt="Solana">
+</td>
+<td>
+<strong>Solana</strong><br>
+Built high-performance blockchain solutions on one of the fastest networks in crypto. Developed smart contracts and DeFi infrastructure.
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/Edge_Group-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEyIDJMMiA3djEwbDEwIDUgMTAtNVY3TDEyIDJ6Ii8+PC9zdmc+&logoColor=FFFFFF" alt="Edge Group">
+</td>
+<td>
+<strong>Edge Group — Abu Dhabi</strong><br>
+Developed enterprise software solutions for one of the leading technology and defense conglomerates in the UAE.
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/Manufacturing-0D1117?style=for-the-badge&logo=industry&logoColor=00FF41" alt="Manufacturing">
+</td>
+<td>
+<strong>Industrial Data Engineering</strong><br>
+Architected and deployed large-scale data processing pipelines for manufacturing operations. Built real-time analytics systems handling millions of data points from industrial IoT sensors.
+</td>
+</tr>
+</table>
 
 ---
 
-## `> network interfaces`
-
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/CryptoCanuck)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/)
-[![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://twitter.com/)
-
-</div>
-
----
-
-<div align="center">
-
-```
- ┌──────────────────────────────────────────────────────────────────┐
- │  "Any sufficiently advanced technology is indistinguishable     │
- │   from magic."  - Arthur C. Clarke                              │
- └──────────────────────────────────────────────────────────────────┘
-```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CryptoCanuck&color=00FF41&style=flat-square&label=VISITORS)
 
